@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Services - Raj & Raj Promoters and Developers</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Raj & Raj Promoters and Developers</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About Us</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="projects.html">Projects</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section class="services">
+            <h2>Our Services</h2>
+            <ul>
+                <li>Property Development</li>
+                <li>Real-Estate Consultancy</li>
+                <li>Construction of Residential and Commercial Buildings</li>
+            </ul>
+        </section>
+        <section class="process">
+            <h3>Our Process</h3>
+            <p>We follow a client-centric approach to ensure that every project meets our high standards of quality and excellence.</p>
+        </section>
+    </main>
+    <footer>
+        <p>© 2024 Raj & Raj Promoters and Developers. All rights reserved.</p>
+        <p>Contact: info@rajrajdevelopers.com</p>
+    </footer>
+</body>
+</html>
