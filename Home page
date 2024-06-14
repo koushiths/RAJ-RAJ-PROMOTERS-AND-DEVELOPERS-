@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Raj & Raj Promoters and Developers</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Raj & Raj Promoters and Developers</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About Us</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="projects.html">Projects</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section class="banner">
+            <h2>Building Dreams, One Brick at a Time</h2>
+            <p>Your trusted partner in real-estate and construction.</p>
+        </section>
+        <section class="intro">
+            <h3>Welcome to Raj & Raj Promoters and Developers</h3>
+            <p>We specialize in real-estate development and construction, turning visions into reality with quality and integrity.</p>
+            <a href="services.html" class="cta-button">View Our Services</a>
+        </section>
+    </main>
+    <footer>
+        <p>© 2024 Raj & Raj Promoters and Developers. All rights reserved.</p>
+        <p>Contact: info@rajrajdevelopers.com</p>
+    </footer>
+</body>
+</html>
