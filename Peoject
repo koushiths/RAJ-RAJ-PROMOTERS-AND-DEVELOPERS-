@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projects - Raj & Raj Promoters and Developers</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Raj & Raj Promoters and Developers</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About Us</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="projects.html">Projects</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section class="projects">
+            <h2>Our Projects</h2>
+            <h3>Completed Projects</h3>
+            <p>Here are some of the projects we've successfully completed:</p>
+            <!-- Add gallery of completed project photos here -->
+            <h3>Ongoing Projects</h3>
+            <p>We are currently working on these exciting projects:</p>
+            <!-- Add information on ongoing projects here -->
+        </section>
+    </main>
+    <footer>
+        <p>© 2024 Raj & Raj Promoters and Developers. All rights reserved.</p>
+        <p>Contact: info@rajrajdevelopers.com</p>
+    </footer>
+</body>
+</html>
